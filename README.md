@@ -20,5 +20,5 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ### 🚀 Proyectos Destacados
-* **[SIM: Sistema Inteligente de Movilidad](LINK_A_TU_REPO_DE_PYTHON)** - Análisis de tráfico global con IA (Gemma 3 & Vertex AI).
-* **[Transport App](LINK_A_TU_REPO_DE_FLUTTER)** - Solución Full-Stack de logística con tracking en tiempo real.
+* **[SIM: Sistema Inteligente de Movilidad](https://github.com/andreslombana/SIM-Movilidad-Global)** - Análisis de tráfico global con IA (Gemma 3 & Vertex AI).
+* **[Transport App](https://github.com/andreslombana/Last-Mile-Transport-App)** - Solución Full-Stack de logística con tracking en tiempo real.
