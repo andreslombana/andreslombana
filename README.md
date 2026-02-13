@@ -1,6 +1,6 @@
 # ¡Hola! Soy Andrés Lombana 👋
 
-Estudiante de último semestre de **Ingeniería de Sistemas** especializado en desarrollo **Full-Stack Mobile** y arquitecturas de **IA con Google Cloud**.
+**Ingeniería de Sistemas** especializado en desarrollo **Full-Stack Mobile** y arquitecturas de **IA con Google Cloud**.
 
 ### 🛠️ Stack Tecnológico
 
